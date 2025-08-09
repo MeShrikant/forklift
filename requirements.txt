@@ -1,8 +1,19 @@
-numpy==1.19.2
-scipy==1.4.1
-imutils==0.5.3
-opencv-python==4.2.0.32
-argparse==1.4.0
-torch                         2.2.0
-torchvision                   0.17.0
-numpy                         1.26.4
+cvzone
+ultralytics==8.0.26
+hydra-core
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+filterpy
+scikit-image
+lap
+flask_wtf
+WTForms
+Flask-WTF
